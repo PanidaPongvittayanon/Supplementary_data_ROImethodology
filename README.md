@@ -1,11 +1,10 @@
 Below is the detail of individual file:
 
 1. Supporting_data agreement.pdf
-    This file provides
    1) Supporting information S1: Intra-rater and inter-rater agreement test (Dice score and modified Cohen’s Kappa score) of all six ROI drawing techniques in all brains area of individual group classification (CON and ASP).
    2) Supporting information S2: PCA score plot and loadings of the premotor cortex (PM) according to group classification and ROI drawing techniques.
    3) Supporting information S3: PCA score plot and loadings of the internal capsule (IC) according to group classification and ROI drawing techniques.
-   4) The average mean and SD of data from the ManSmROI drawing technique in all brain areas of both group classification. 
+   4) The average mean and SD of data from the ManSmROI drawing technique in all brain areas of both group classification.
 2. code_for_ID_CAU_PU.py
     This file contains a python code for performing the ID technique, applied for the CAU and PU brain areas.
 3. code_for_ID_PM_IC.py
